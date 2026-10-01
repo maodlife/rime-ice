@@ -1,0 +1,3 @@
+[submodule "my_rime_dicts"]
+	path = my_rime_dicts
+	url = git@github.com:maodlife/my_rime_dicts.git
